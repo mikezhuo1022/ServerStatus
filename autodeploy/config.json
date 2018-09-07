@@ -1,20 +1,44 @@
 {"servers":
 	[
 		{
-			"username": "s01",
-			"name": "node1",
-			"type": "xen",
-			"host": "host1",
-			"location": "cn",
-			"password": "USER_DEFAULT_PASSWORD"
+			"username": "let",
+			"name": "云盘1-300G",
+			"type": "kvm",
+			"host": "let",
+			"location": "洛杉矶pz",
+			"password": "zhuo1022"
 		},
 		{
-			"username": "s02",
-			"name": "node2",
-			"type": "vmware",
-			"host": "host2",
-			"location": "jp",
-			"password": "USER_DEFAULT_PASSWORD"
+			"username": "solution",
+			"name": "云盘2-400G",
+			"type": "openvz",
+			"host": "云盘2-400G",
+			"location": "罗马尼亚",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "htd",
+			"name": "云盘3-200G",
+			"type": "openvz",
+			"host": "云盘3-200G",
+			"location": "洛杉矶qn",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "bwg",
+			"name": "网站服务器",
+			"type": "kvm",
+			"host": "网站服务器",
+			"location": "洛杉矶cn2",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "tx",
+			"name": "上网服务器1",
+			"type": "kvm",
+			"host": "上网服务器1",
+			"location": "香港",
+			"password": "zhuo1022"
 		},
 		{
 			"disabled": true,
@@ -25,13 +49,5 @@
 			"location": "fr",
 			"password": "USER_DEFAULT_PASSWORD"
 		},
-		{
-			"username": "s04",
-			"name": "ssss",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "ssss",
-			"password": "USER_DEFAULT_PASSWORD"
-		}
 	]
 }
