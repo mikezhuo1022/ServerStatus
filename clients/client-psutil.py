@@ -5,7 +5,7 @@
 # 支持操作系统： Linux, Windows, OSX, Sun Solaris, FreeBSD, OpenBSD and NetBSD, both 32-bit and 64-bit architectures
 # 时间： 20180828
 
-SERVER = "95.169.5.208"
+SERVER = "127.0.0.1"
 PORT = 35601
 USER = "bwg"
 PASSWORD = "zhuo1022"
