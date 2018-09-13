@@ -1,8 +1,16 @@
 {"servers":
 	[
 		{
+			"username": "htd",
+			"name": "云盘1-200G",
+			"type": "openvz",
+			"host": "云盘1-200G",
+			"location": "洛杉矶qn",
+			"password": "zhuo1022"
+		},
+		{
 			"username": "let",
-			"name": "云盘1-300G",
+			"name": "云盘2-300G",
 			"type": "kvm",
 			"host": "let",
 			"location": "洛杉矶pz",
@@ -10,18 +18,19 @@
 		},
 		{
 			"username": "solution",
-			"name": "云盘2-400G",
+			"name": "云盘3-400G",
 			"type": "openvz",
-			"host": "云盘2-400G",
+			"host": "solution",
 			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "htd",
-			"name": "云盘3-200G",
-			"type": "openvz",
-			"host": "云盘3-200G",
-			"location": "洛杉矶qn",
+			"disabled": true,
+			"username": "solution2",
+			"name": "云盘4-1T",
+			"type": "Openvz",
+			"host": "云盘4-1T",
+			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
 		{
