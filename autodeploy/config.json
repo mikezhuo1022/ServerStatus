@@ -25,7 +25,6 @@
 			"password": "zhuo1022"
 		},
 		{
-			"disabled": true,
 			"username": "solution2",
 			"name": "云盘4-1T",
 			"type": "Openvz",
