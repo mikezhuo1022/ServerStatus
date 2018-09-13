@@ -17,18 +17,18 @@
 			"password": "zhuo1022"
 		},
 		{
-			"username": "solution",
-			"name": "云盘3-400G",
+			"username": "solution2",
+			"name": "云盘3-1T",
 			"type": "openvz",
 			"host": "solution",
 			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "solution2",
-			"name": "云盘4-1T",
+			"username": "solution",
+			"name": "综合服务器",
 			"type": "Openvz",
-			"host": "云盘4-1T",
+			"host": "综合服务器",
 			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
@@ -46,6 +46,14 @@
 			"type": "kvm",
 			"host": "上网服务器1",
 			"location": "香港",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "dgc",
+			"name": "上网服务器2",
+			"type": "kvm",
+			"host": "上网服务器1",
+			"location": "洛杉矶-gia",
 			"password": "zhuo1022"
 		},
 		{
@@ -67,7 +75,7 @@
 		},
 		{
 			"username": "au",
-			"name": "测试2",
+			"name": "测试服务器2",
 			"type": "KVM",
 			"host": "ceshi2",
 			"location": "荷or德",
