@@ -1,8 +1,16 @@
 {"servers":
 	[
 		{
+			"username": "htd",
+			"name": "云盘1-200G",
+			"type": "openvz",
+			"host": "云盘1-200G",
+			"location": "洛杉矶qn",
+			"password": "zhuo1022"
+		},
+		{
 			"username": "let",
-			"name": "云盘1-300G",
+			"name": "云盘2-300G",
 			"type": "kvm",
 			"host": "let",
 			"location": "洛杉矶pz",
@@ -10,18 +18,18 @@
 		},
 		{
 			"username": "solution",
-			"name": "云盘2-400G",
+			"name": "云盘3-400G",
 			"type": "openvz",
-			"host": "云盘2-400G",
+			"host": "solution",
 			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "htd",
-			"name": "云盘3-200G",
-			"type": "openvz",
-			"host": "云盘3-200G",
-			"location": "洛杉矶qn",
+			"username": "solution2",
+			"name": "云盘4-1T",
+			"type": "Openvz",
+			"host": "云盘4-1T",
+			"location": "罗马尼亚",
 			"password": "zhuo1022"
 		},
 		{
@@ -48,6 +56,22 @@
 			"host": "host3",
 			"location": "fr",
 			"password": "USER_DEFAULT_PASSWORD"
+		},
+		{
+			"username": "woot",
+			"name": "测试服务器1",
+			"type": "openvz",
+			"host": "ceshi1",
+			"location": "洛杉矶qn",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "au",
+			"name": "测试2",
+			"type": "KVM",
+			"host": "ceshi2",
+			"location": "荷or德",
+			"password": "zhuo1022"
 		},
 	]
 }
