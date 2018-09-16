@@ -74,11 +74,11 @@
 			"password": "zhuo1022"
 		},
 		{
-			"username": "au",
+			"username": "do",
 			"name": "测试服务器2",
 			"type": "KVM",
 			"host": "ceshi2",
-			"location": "荷or德",
+			"location": "美西",
 			"password": "zhuo1022"
 		},
 	]
