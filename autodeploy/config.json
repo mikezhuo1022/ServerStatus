@@ -57,6 +57,14 @@
 			"password": "zhuo1022"
 		},
 		{
+			"username": "googletw",
+			"name": "上网服务器3",
+			"type": "kvm",
+			"host": "上网服务器1",
+			"location": "台湾",
+			"password": "zhuo1022"
+		},
+		{
 			"disabled": true,
 			"username": "s03",
 			"name": "node3",
