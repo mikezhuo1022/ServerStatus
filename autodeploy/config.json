@@ -9,8 +9,8 @@
 			"password": "zhuo1022"
 		},
 		{
-			"username": "box",
-			"name": "云盘2-300G",
+			"username": "pan2",
+			"name": "云盘2-750G",
 			"type": "kvm",
 			"host": "box",
 			"location": "洛杉矶pz",
@@ -21,15 +21,15 @@
 			"name": "网站服务器",
 			"type": "kvm",
 			"host": "网站服务器",
-			"location": "洛杉矶cn2",
+			"location": "洛杉矶gia",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "googletw",
+			"username": "google1",
 			"name": "上网服务器",
 			"type": "kvm",
 			"host": "上网服务器1",
-			"location": "台湾",
+			"location": "香港",
 			"password": "zhuo1022"
 		},
 		{
@@ -42,7 +42,15 @@
 			"password": "USER_DEFAULT_PASSWORD"
 		},
 		{
-			"username": "do",
+			"username": "do1",
+			"name": "服务器",
+			"type": "KVM",
+			"host": "ceshi",
+			"location": "美西",
+			"password": "zhuo1022"
+		},
+		{
+			"username": "ceshi",
 			"name": "测试服务器",
 			"type": "KVM",
 			"host": "ceshi",
