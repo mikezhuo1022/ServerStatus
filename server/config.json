@@ -1,6 +1,7 @@
 {"servers":
 	[
 		{
+			"disabled": true,
 			"username": "htd",
 			"name": "云盘1-200G",
 			"type": "openvz",
@@ -9,43 +10,35 @@
 			"password": "zhuo1022"
 		},
 		{
-			"username": "box",
-			"name": "云盘2-300G",
+			"username": "pan",
+			"name": "云盘",
 			"type": "kvm",
 			"host": "box",
-			"location": "洛杉矶pz",
+			"location": "洛杉矶",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "solution",
-			"name": "云盘3-1T",
-			"type": "openvz",
-			"host": "solution",
-			"location": "罗马尼亚",
-			"password": "zhuo1022"
-		},
-		{
-			"username": "bwg",
+			"username": "star",
 			"name": "网站服务器",
 			"type": "kvm",
 			"host": "网站服务器",
-			"location": "洛杉矶cn2",
+			"location": "香港",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "tx",
-			"name": "上网服务器1",
+			"username": "google1",
+			"name": "上网服务器",
 			"type": "kvm",
 			"host": "上网服务器1",
 			"location": "香港",
 			"password": "zhuo1022"
 		},
 		{
-			"username": "googletw",
-			"name": "上网服务器3",
-			"type": "kvm",
-			"host": "上网服务器1",
-			"location": "台湾",
+			"username": "shangwang2",
+			"name": "上网服务器2",
+			"type": "KVM",
+			"host": "ceshi",
+			"location": ",
 			"password": "zhuo1022"
 		},
 		{
@@ -56,22 +49,6 @@
 			"host": "host3",
 			"location": "fr",
 			"password": "USER_DEFAULT_PASSWORD"
-		},
-		{
-			"username": "woot",
-			"name": "测试服务器1",
-			"type": "openvz",
-			"host": "ceshi1",
-			"location": "洛杉矶qn",
-			"password": "zhuo1022"
-		},
-		{
-			"username": "do",
-			"name": "测试服务器2",
-			"type": "KVM",
-			"host": "ceshi2",
-			"location": "美西",
-			"password": "zhuo1022"
 		},
 	]
 }
